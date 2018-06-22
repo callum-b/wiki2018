@@ -1,0 +1,66 @@
+/*
+*** INTRO ***
+Hello, and welcome to the 2018 iGEM Team Toulouse's css page, special menu edition.
+If you are a member of this team and would like information about this page, feel free to contact me:
+	callum.j.burnard@gmail.com
+If you are an iGEM judge, I hope that you find this page to be welcoming and enjoyable. May I recommend some soothing music to accompany you in your judging? https://www.youtube.com/watch?v=3pGwlKjpdfc
+If you are neither of these, please leave. Thank you and goodbye.
+*/
+
+.falcon-button {
+	border-radius: 25px;
+	height: 16.66666667%;
+	width: 5%;
+}
+
+.sub-button {
+	border-radius: 25px;
+	height: 16.66666667%;
+	width: 5%;
+}
+
+.notepad-button {
+	border-radius: 25px;
+	height: 16.66666667%;
+	width: 5%;
+}
+
+.petri-button {
+	
+}
+
+#falcon-menu {
+	height: 66.66666667%;
+	width: 5%;
+	top: 16.66666667%;
+	left: 2.5%;
+	position: fixed;
+	background-attachment: fixed;
+	background-color: #EA531C;
+}
+
+#sub-menu {
+	height: 66.66666667%;
+	width: 6.66666667%;
+	top: 16.66666667%;
+	left: 7.5%;
+	position: fixed;
+	background-attachment: fixed;
+	background-color: #FFC53A;
+}
+
+#notepad-menu {
+	height: 66.66666667%;
+	width: 6.66666667%;
+	top: 16.66666667%;
+	left: 7.5%;
+	position: fixed;
+	background-attachment: fixed;
+	background-color: #FFC53A;
+}
+
+#petri-menu {
+	
+}
+
+

@@ -8,9 +8,7 @@ If you are neither of these, please leave. Thank you and goodbye.
 */
 
 body {
-	background-image: url('tumblr_static_px_by_gre3g.png');
-	height: 100%;
-	width: 100%;
+	background: linear-gradient(to bottom, #ffffff, #ffedcf);
 	
 }
 
@@ -22,51 +20,27 @@ p, h1, h2, h3, h4, h5, h6 {
 }
 
 #main {
-	z-index: -9;
 	font-size: 12px;
-	color: #FAFF81;
+	color: #010b13;
 	line-height: 16px;
 	text-align: justify;
-	height: 110%;
 	margin-left: 16.66666667%;
 	margin-right: 16.66666667%;
+	background-color: #FFC53A;
 }
 
 
 #border-left {
-	height: 110%;
 	width: 16.66666667%;
-	top: 0px;
+	top: 0%;
 	left: 0%;
 	position: fixed;
 	background-attachment: fixed;
 }
 
-#menu {
-	height: 66.66666667%;
-	width: 5%;
-	top: 16.66666667%;
-	left: 5%;
-	position: fixed;
-	background-attachment: fixed;
-	background-color: #EA531C;
-}
-
-#sub-menu {
-	height: 66.66666667%;
-	width: 6.66666667%;
-	top: 16.66666667%;
-	left: 10%;
-	position: fixed;
-	background-attachment: fixed;
-	background-color: #FFC53A;
-}
-
 #border-right {
-	height: 110%;
 	width: 16.66666667%;
-	top: 0px;
-	right: 0px;
+	right: 0%;
 	position: fixed;
 	background-attachment: fixed;
 }
